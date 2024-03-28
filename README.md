@@ -1,4 +1,4 @@
-# SQL portfolio projects
+# SQL portfolio
 
 This is where I demonstrate my technical SQL skills by completing various analytical projects.
 
