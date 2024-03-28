@@ -1,3 +1,3 @@
 # SQL portfolio projects
 
-Here I am showcasing my technical SQL skills 
+This is where I demonstrate my technical SQL skills by completing various tutorial and personal projects.
