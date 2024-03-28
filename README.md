@@ -1,3 +1,3 @@
-# portfolio
+# SQL portfolio projects
 
-My first readme file in my first repositary
+Here I am showcasing my technical SQL skills 
