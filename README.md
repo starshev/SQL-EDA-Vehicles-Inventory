@@ -1,7 +1,7 @@
-# SQL portfolio
+# SQL EDA Project #1
 
-This is where I demonstrate my technical SQL skills by completing various analytical projects.
+This is the first project to demonstrate my fundamental technical skills in SQL.
 
-SQL project #1 (eng) · Exploratory Data Analysis using MySQL Workbench in the fictional company Mint Classics
+SQL EDA Project #1 (eng) · Exploratory Data Analysis using MySQL Workbench in the fictional company Mint Classics
  
-SQL project #1 (rus) · Исследовательский анализ данных с использованием MySQL Workbench в вымышленной компании Mint Classics (версия на русском)
+SQL EDA Project #1 (rus) · Исследовательский анализ данных с использованием MySQL Workbench в вымышленной компании Mint Classics (версия на русском)
