@@ -1,4 +1,4 @@
-# MySQL EDA · Vehicles Inventory Data
+# MySQL EDA · Vehicles Inventory
  
 This project serves as a showcase of my technical abilities with SQL.
  
