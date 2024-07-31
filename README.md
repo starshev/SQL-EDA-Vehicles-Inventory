@@ -10,9 +10,9 @@ Exploratory Data Analysis using MySQL Workbench in the fictional vehicle selling
 
 **Skills**  
 
-SQL querying
-SQL grouping and aggregating
-SQL filtering
-SQL views
-SQL joins
+SQL querying  
+SQL grouping and aggregating  
+SQL filtering  
+SQL views  
+SQL joins  
 SQL window functions
