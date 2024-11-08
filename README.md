@@ -1,18 +1,13 @@
-# MySQL EDA · Vehicles Inventory
+# EDA with SQL · Vehicles Inventory
  
-**Context** 
+### Project Overview
+Performed exploratory data analysis (EDA) using MySQL Workbench for the fictional vehicle selling company, Mint Classics. Focused on querying, grouping, filtering, and aggregating data to uncover insights about the company's vehicle inventory.
 
-Exploratory Data Analysis using MySQL Workbench in the fictional vehicle selling company Mint Classics.  
+### Key Skills
+SQL querying, grouping and aggregating, filtering, views, joins, and window functions.
 
-**Контекст** 
+### Описание проекта
+Выполнил исследовательский анализ данных (EDA) с использованием MySQL Workbench в вымышленной компании по продаже транспортных средств Mint Classics. Использовал запросы, группировки, фильтрации и агрегации данных для получения информации о транспортном парке компании.
 
-Исследовательский анализ данных с использованием MySQL Workbench в вымышленной компании по продаже транспортных средств Mint Classics (отдельная версия на русском языке).  
-
-**Skills**  
-
-SQL querying  
-SQL grouping and aggregating  
-SQL filtering  
-SQL views  
-SQL joins  
-SQL window functions
+### Ключевые навыки
+SQL-запросы, группировка и агрегация, фильтрация, представления (views), объединения (joins) и оконные функции.
